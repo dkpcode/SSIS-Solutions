@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Data matching", "Data matching\Data matching.dtproj", "{D2F3A878-E9F6-461D-B323-D0C0CCB751FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F3A878-E9F6-461D-B323-D0C0CCB751FE}.Development|Default.ActiveCfg = Development
+		{D2F3A878-E9F6-461D-B323-D0C0CCB751FE}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1918F2C-2CE0-4DCD-8B0A-21EEFE922922}
+	EndGlobalSection
+EndGlobal
